@@ -2,5 +2,15 @@ Really cold and dry and everything is hot rusty.
 
 Atmoshere might be a problem.
 
+<<<<<<< HEAD
+Changes added by Anupinder Rai
+=======
 Welcome to mars anupinder!
 
+>>>>>>> d03cfaab7c23d24619971896d1e7a32d446b462c
+
+
+
+
+
+Changes made 11:20
